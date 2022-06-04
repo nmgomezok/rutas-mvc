@@ -1,0 +1,30 @@
+.main-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+h1{
+    color: red;
+    font-size: 30px;
+}
+
+p{
+    font-weight: 600;
+}
+
+.main-ul{
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+    padding: 20px;
+}
